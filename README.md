@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-#### Introductory Problems [19 problems] <br>
+## Introductory Problems [19 problems] <br>
 -> Weird Algorithm  <br>
 -> Missing Number  <br>
 -> Repetitions  <br>

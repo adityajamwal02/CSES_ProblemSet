@@ -1,27 +1,27 @@
 # CSES Problem Set
--> Refer: https://cses.fi/problemset/ 
--> Language: C++
+-> Refer: https://cses.fi/problemset/ <br>
+-> Language: C++ 
 
-## Table of Contents
+# Table of Contents
 
-#### Introductory Problems [19 problems]
--> Weird Algorithm
--> Missing Number
--> Repetitions
--> Increasing Array
--> Permutations
--> Number Spiral
--> Two Knights
--> Two Sets
--> Bit Strings
--> Trailing Zeros
--> Coin Piles
--> Palindrome Reorder
--> Gray Code
--> Tower of Hanoi
--> Creating Strings
--> Apple Division
--> Chessboard and Queens
--> Digit Queries
--> Grid Paths
+#### Introductory Problems [19 problems] <br>
+-> Weird Algorithm  <br>
+-> Missing Number  <br>
+-> Repetitions  <br>
+-> Increasing Array  <br>
+-> Permutations  <br>
+-> Number Spiral  <br>
+-> Two Knights  <br>
+-> Two Sets  <br>
+-> Bit Strings  <br>
+-> Trailing Zeros  <br>
+-> Coin Piles <br>
+-> Palindrome Reorder <br>
+-> Gray Code  <br>
+-> Tower of Hanoi  <br>
+-> Creating Strings <br>
+-> Apple Division <br>
+-> Chessboard and Queens <br>
+-> Digit Queries  <br>
+-> Grid Paths <br>
 

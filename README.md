@@ -62,4 +62,25 @@
 -> Movie Festival II<br>
 -> Maximum Subarray Sum II<br>
 
+## Dynamic Programming [19] <br>
+-> Dice Combinations<br>
+-> Minimizing Coins<br>
+-> Coin Combinations I<br>
+-> Coin Combinations II<br>
+-> Removing Digits<br>
+-> Grid Paths<br>
+-> Book Shop<br>
+-> Array Description<br>
+-> Counting Towers<br>
+-> Edit Distance<br>
+-> Rectangle Cutting<br>
+-> Money Sums<br>
+-> Removal Game<br>
+-> Two Sets II<br>
+-> Increasing Subsequence<br>
+-> Projects<br>
+-> Elevator Rides<br>
+-> Counting Tilings<br>
+-> Counting Numbers<br>
+
 
